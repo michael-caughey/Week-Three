@@ -1,0 +1,6 @@
+#Overall this week was very rewarding. The few issues I ran into were simple fixes I was able to either figure out in my own or solve with simple instructions from my peers and Dr. Graham
+#My first issue only came once I got to importing my data to Connect the dots. I sent out a message to our discord group and discovered that Connect the dots is simply buggy. 
+#At the same time I moved on to Gephy, where I was having trouble downloading as it was not finding my Java. With help from a peer I was able to find someone else who had the same issue and with a simple chang in the coding of Gephy I was able to open it onto my computer. 
+#From there I also dicovered the reason my .csv file would not run is because as Dr. Graham said I had a bunch of junk in my subject line. I had not deleted my origional first line and also included the comma. After changing the first line of the excel document as well as deleting the 'junk' everyting was smooth sailing from there. 
+#I was able to put the information into Gephy and also into Palladio and the rest is golden.
+#I included screen shots of my errors I got as well as the finished scatter-graphs from both the programs mentioned above in the work document in this repository.
